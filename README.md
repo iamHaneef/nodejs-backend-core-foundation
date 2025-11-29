@@ -46,13 +46,13 @@ nodemon setup
 
 ## 🛠️ Tech Stack
 
-Node.js
-Express.js
-MongoDB (Upcoming)
-Mongoose
-JWT
-Bcrypt
-npm
+Node.js  
+Express.js  
+MongoDB (Upcoming)  
+Mongoose  
+JWT  
+Bcrypt  
+npm  
 
 
 💡 Goal
