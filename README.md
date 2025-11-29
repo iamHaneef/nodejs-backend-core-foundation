@@ -21,28 +21,28 @@ Built-in modules (fs, path, os)
 
 > Topic 3 – Event Loop
 
-Call stack
-Microtask vs macrotask queue
-Async execution flow
+Call stack  
+Microtask vs macrotask queue  
+Async execution flow  
 
 Topic 4 – FS Module
 
-Read/Write files
-File append, delete
-Streams & piping
+Read/Write files  
+File append, delete  
+Streams & piping  
 
 > Topic 5 – HTTP Core Concepts
 
-What http module does
-Why Express.js is needed
-Concept-level understanding
+What http module does  
+Why Express.js is needed  
+Concept-level understanding  
 
 > Topic 6 – NPM
-
-npm init
-package.json
-dependencies vs devDependencies
-nodemon setup
+ 
+npm init  
+package.json  
+dependencies vs devDependencies  
+nodemon setup  
 
 ## 🛠️ Tech Stack
 
