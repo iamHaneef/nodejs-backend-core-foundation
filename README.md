@@ -15,9 +15,9 @@ Non-blocking, event-driven architecture
 
 > Topic 2 – Modules
 
-require & module.exports
-ES Modules (import/export)
-Built-in modules (fs, path, os)
+require & module.exports  
+ES Modules (import/export)  
+Built-in modules (fs, path, os)  
 
 > Topic 3 – Event Loop
 
