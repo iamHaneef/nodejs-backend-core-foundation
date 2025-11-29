@@ -9,9 +9,9 @@ This repository contains 10 structured topics, each with hands-on practice files
 📚 Topics Covered
 > Topic 1 – Node.js Basics
 
-What is Node.js
-JavaScript runtime
-Non-blocking, event-driven architecture
+What is Node.js  
+JavaScript runtime  
+Non-blocking, event-driven architecture  
 
 > Topic 2 – Modules
 
