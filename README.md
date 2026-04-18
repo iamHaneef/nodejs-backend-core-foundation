@@ -64,6 +64,5 @@ To build a strong foundation in backend development using Node.js through struct
 <p align="center">
   <b>Muhamad Haneef</b><br/>
   Full Stack Developer<br/>
-  📍 Government College of Technology, Coimbatore
 </p>
 
