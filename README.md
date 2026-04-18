@@ -57,12 +57,7 @@ To build a strong foundation in backend development using Node.js through struct
 
 ## 👨‍💻 Author
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/146a1b4a-0a04-4aec-aa4f-7b7901f7ff00" width="700" />
-</p>
-
-<p align="center">
-  <b>Muhamad Haneef</b><br/>
-  Full Stack Developer<br/>
-</p>
+Muhamad Haneef J  
+Full Stack Learner  
+GitHub: iamHaneef
 
